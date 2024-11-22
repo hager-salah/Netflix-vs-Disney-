@@ -26,9 +26,8 @@ To analyze and visualize data from Netflix and Disney+ to uncover trends, differ
 
 🚀 How to Use
 1. Clone this repository:
-   ```
-   git clone https://github.com/your-username/netflix-vs-disney.git
-   ```
+   (https://github.com/hager-salah/Netflix-vs-Disney-/tree/main)
+  
 2. Open the Power BI file (.pbix) in Microsoft Power BI Desktop.
 3. Explore the interactive dashboards to gain insights.
 
